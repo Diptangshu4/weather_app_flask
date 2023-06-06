@@ -65,7 +65,9 @@ The app will display the current weather information for the entered city, inclu
 Credits:
 
 Youtube Channel Name: BrighterBees
+
 Youtube Channel Link: https://www.youtube.com/@BrighterBees
+
 Original Video Link: https://youtu.be/rfg_N-PuRDY
 
 Thanks BrighterBees for this amazing project. 
