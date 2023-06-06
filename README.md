@@ -60,6 +60,16 @@ Open a web browser and go to http://localhost:5000 to access the weather app.
 Enter a city name in the input field and click the "Search Now" button.
 The app will display the current weather information for the entered city, including temperature, weather description, minimum temperature, maximum temperature, and an icon representing the weather condition.
 
+--- 
+
+Credits:
+
+Youtube Channel Name: BrighterBees
+Youtube Channel Link: https://www.youtube.com/@BrighterBees
+Original Video Link: https://youtu.be/rfg_N-PuRDY
+
+Thanks BrighterBees for this amazing project. 
+
 
 --- 
 
